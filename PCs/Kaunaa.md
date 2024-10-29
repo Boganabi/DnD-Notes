@@ -1,0 +1,1 @@
+Kaunaa is Finnish for "grudge", i want to center this characters story around some kind of grudge being held

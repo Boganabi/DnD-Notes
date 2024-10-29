@@ -1,0 +1,10 @@
+Picere is an old wizard, weak in the body but still very much of a strong mind. He is blind, but has learned to feel the minute vibrations in the ground to make his way around and navigate. Most of his friends have passed away already, all except the son of one of his closest friends who runs the town's famous tavern. While Picere doesn't need much help in his day-to-day life, the son still helps Picere whenever he can. 
+
+Picere likes to focus on time magic, manipulating the Weave to wind time forward and back. 
+
+Outwardly, Picere is the stereotypical kind old man of the neighborhood, oftentimes teaching children how to play classic board games and settling disputes in a kind manner. Both children and adults alike are fond of him, since he always has a kind word for them or does a small magic trick with the time magic he learned. Inwardly, Picere is filled with rage. Not at anyone around him, but at the men who kidnapped his wife, Tempus. Years ago, when Picere was still young and just barely married to his wife, a gang of thieves raided town and stole his wife and his sight. He still holds the grudge against them to this day. However, he doesn't want anyone else to worry about him or fight the thieves, so he usually says that his wife was killed in the chaos. He knows that it's likely that she died shortly after, but to him, its not just about her anymore. He wants to take the thieves down himself, and often dreams of watching the life fade from their eyes, one by one. In the meantime, he waits patiently for the right people to join together to help him in this fight, as he knows it won't be simple. He figures that while he roots out this evil, he might as well root out all the other evil he can in this world. 
+
+He sits idly in his friend's son's tavern, sipping his drink and planning his day. He notices a group walk into the tavern, pretty obviously not from this town. _Perfect_, he thinks, _these are the people I've been waiting for_.
+
+He looks like this
+![[Picere.png]]

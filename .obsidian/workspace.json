@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "a85f247e3b3dde67",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a0247df5a9cf5ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d74156250aeef8ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds/Unnamed.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unnamed"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96f30940dc8dfa67",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8dd352396d5ae91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfc2692ce1837e40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6ecbf2efb446dbde",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8799d102bb3685d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c31daa139431743",
+    "type": "split",
+    "children": [
+      {
+        "id": "0127f78ab80206b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c09b8347b3464248",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campaigns/Feywild campaign.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Feywild campaign"
+            }
+          },
+          {
+            "id": "1f151af80d2f5728",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campaigns/Feywild campaign.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Feywild campaign"
+            }
+          },
+          {
+            "id": "a038292f23596f25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "465281773ab244c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campaigns/Feywild campaign.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Feywild campaign"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d74156250aeef8ed",
+  "lastOpenFiles": [
+    "PCs/Pointer Exception.md",
+    "PCs/Vance.md",
+    "PCs/Tynd.md",
+    "PCs/Bannad.md",
+    "PCs/Koa.md",
+    "PCs/Kaunaa.md",
+    "PCs/Name-Later.md",
+    "PCs/Character Sheets/Vance.pdf",
+    "PCs/Picere.md",
+    "Imgs/Picere.png",
+    "PCs/Character Sheets",
+    "Imgs",
+    "Imgs/Vance.png",
+    "PCs/Giyatsu.md",
+    "General Notes/One-Shot Ideas.md",
+    "Campaigns/Feywild campaign.md",
+    "General Notes/Campaign Prep Template.md",
+    "General Notes/Building a Campaign.md",
+    "Worlds/Unnamed.md",
+    "Organizations/Aperture.md",
+    "One-shots/Wendigo.md",
+    "One-shots/Weeping Angels Reimagined.md",
+    "One-shots/Weeping Angels.md",
+    "One-shots/The Silenced Citadel.md",
+    "One-shots/Pirate.md",
+    "One-shots/Heist.md",
+    "One-shots/False Hydra.md",
+    "One-shots/Dragon One-shot.md",
+    "One-shots/DOOM.md",
+    "One-shots/Beginner-friendly one-shot.md",
+    "One-shots/Bagman.md",
+    "Campaigns/Here be Dragons",
+    "PCs",
+    "Campaigns",
+    "Organizations",
+    "Cities",
+    "Nations",
+    "NPCS/Villains"
+  ]
+}
