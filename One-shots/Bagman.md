@@ -6,47 +6,27 @@ This is a level 4 or 5 one-shot designed for 4 or 5 players. 5 players: level 4,
 
 As mercenaries, this is a pretty quiet day. Not a single quest today, until around evening the local tavern owner requests that some rats be cleared out from his basement, as they are making excess noise and scaring customers. Since there doesn’t seem to be anything better to do, you agree. 
 
-  
-
 Your characters, having done quests together before, are fairly well acclimated to each other, and you know each other pretty well. Be creative with their experiences together!
 
-  
-
 ** end copy text **
-
-  
 
 Game begins
 
 As you enter the tavern in the late evening, when the business here starts to slow, the tavern master sees you as he cleans up a table and waves to you. Over the din of the late night business, he says, “Ah! Thank yall for showing up! I’m just cleaning up here, if yer looking for the basement it’s down the hall to the left! I’ll be here if ya have any questions.”
 
-  
-
 The basement
 
 You open the door to the basement, and the door creaks open to reveal a dimly lit basement. You hear the faint sound of a few rats. It’s obvious that no one has been here in a long time, as cobwebs litter the sides and ceiling of the stairway.
 
-  
-
 (As players walk down) As you pick your way through the cobwebs and dust, you make it to the bottom and see a small gang of rats, around 5 of them.
-
-  
 
 The players should pretty easily take care of the rats. Once they do, ask for their passive perception, and the one who has the highest notices something: You notice a Bag of Holding, laying open on the floor. There are several dead rats around it, and they are most certainly long dead, half-rotten, and mostly eaten, leaving just half-eaten bones. They were most certainly killed by something else here.
 
-  
-
 When the players investigate either the Bag of Holding or the dead rats around the bag: As you approach the bag on the ground, the old wooden door to the basement creaks closed, extinguishing the lanterns, and plunging the basement into darkness (players without darkvision are now blind). You then feel a presence that you are for sure wasn’t there before; and it’s directly above you. (when the players look at it) As you slowly look upward, you can see a creature attached to the ceiling, staring down at you with its yellow eyes from behind its gross curtain of hair. Its smile is one of a predator that has trapped its prey, long blood-caked teeth from its last victims still fresh in its mouth, wielding the smile of a devil you didn’t believe in. The long, skin and bone limbs holding it onto the ceiling end in sharp claws, dug into the ceiling. Its skin, once full of life, now gray and decaying, strung tightly across its bones, some parts falling off. Its back curves unnaturally, such that each bone and rib in its spine pokes out of the leathery skin. It reaches down to the floor, its lanky body stretching from the ceiling downward, and in a panther-like fashion puts itself on the floor in front of you on all fours, and as it moves it makes the sound of bones cracking and breaking, but it doesn’t seem to effect the monster in front of you. Its form seems to sometimes flicker to a wildly different, yet unnatural position, silently screaming in pain, before abruptly shifting back to normal. It looks at nearest player and opens its jaws sideways, like mandiles, and exuding from its hideous mouth comes the sound of rats squeaking and panicking, but distorted like a broken music player. You can barely make out some rat flesh still hanging from its teeth, and half broken rat bones stuck between them as well. The stench of long dead and rotting rats fills your nose, and as its hideous eyes lock onto you, it lunges. Roll initiative.
-
-  
 
 On a successful History check of 16 or better, they identify this as the Bagman, from the stories of an old legend they cannot recall. On an 18 or better, they recall the text in the “Description” of The Bagman’s stat block.
 
-  
-
 If the players do not investigate the bag, they are called back again the next day because the noises have not stopped yet
-
-  
 
 Maps, stat blocks, and resources 
 
@@ -78,4 +58,4 @@ Tiny Servant: [http://dnd5e.wikidot.com/spell:tiny-servant](http://dnd5e.wikidot
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1oAzdNAN4AMe4Ue4neXR12BUH7vhik_G2UYv2cPehv_kFbXJ4QZWRGLgqqv98hb9KbhX8Ly2sLOQzDDEfYKLs9GCIG1w1olZYB0rkBaFlQt_jXmscI8J_o5nE1FexLAo9UgL0MHNxyJhWicmsITDCwFw?key=dqTm26vqg0DY9UycEVsipA)
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdyIOwIOBYeeekYNNhSyy_OwRvucf1pZ725X2YJSouLaUluQm-GLnftiEqoqdsUiVTQ6NGBaAZ672tdmvmCxz0Phj_Xk0mcdsTLtEE5QE8XlnOgeSHtbU-fkCBW3gZokVfEQ9w5_6_c8ttZQV1lCAmBL2Kk?key=dqTm26vqg0DY9UycEVsipA)**
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdyIOwIOBYeeekYNNhSyy_OwRvucf1pZ725X2YJSouLaUluQm-GLnftiEqoqdsUiVTQ6NGBaAZ672tdmvmCxz0Phj_Xk0mcdsTLtEE5QE8XlnOgeSHtbU-fkCBW3gZokVfEQ9w5_6_c8ttZQV1lCAmBL2Kk?key=dqTm26vqg0DY9UycEVsipA)
