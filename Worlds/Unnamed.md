@@ -8,3 +8,83 @@ World name: ??
 	- [[Locwyn]]
 		- While not yet affected by the hell portals, a portal to the Feywild is monitored by [[Aperture]] underneath the castle. The portal is only rumored amongst the townsfolk, as [[Aperture]] keeps information confidential
 - Races
+
+
+### Filling in blanks from:
+https://www.reddit.com/r/worldbuilding/wiki/getting_started/
+- That First Spark
+	- Themes of 7
+		- 7 Gods, 7 mainlands, 7 seas, 7 items of power, etc
+	- Things I want in this world
+		- Spirits that appear for certain things, like events or feelings (like spren from Mistborn)
+		- Kingdoms that are rotting from the inside
+		- Life is rotting for some reason
+- Developing your idea
+	- The 5 W's
+		- What's the cosmology?
+			- Constellations
+			- Planets
+		- What's the Flora and Fauna like?
+			- Animals and plants
+			- What do they eat?
+			- Medicines?
+			- Ecology
+		- What elements of the supernatural exist?
+			- Is there magic?
+			- Can biological/supernatural creatures use magic?
+			- Does magic follow physical laws?
+		- What's social life like?
+			- What social divides are there?
+			- What jobs are there?
+			- Who does these jobs?
+			- What educational/governmental systems are there?
+		- What cultures have formed?
+			- What do people wear?
+			- What do they eat?
+			- What hobbies do people have?
+	- Things to keep in mind
+		- Avoid making maps - they inhibit ideas
+		- Rivers
+			- Made out of different parts
+			- Start as springs in high ground, flow to oceans, joining other springs
+			- Generally do not split
+		- Biomes
+			- Differ based on latitude
+			- Affected by local geography
+		- Plate tectonics
+			- Define shape and movement of land
+			- Oceanic and Continental
+				- Oceanic are denser and tend to sink
+				- Define where mountains and earthquakes are
+		- Mountains can form rain shields, a wet and dry side
+		- Ocean currents allow for hot or cold air to be transported around the planet
+- Naming
+	- Some methods to use
+		- Translation
+			- Google translate
+			- Try to stick to the same language for related names
+		- Using a theme
+		- [Tool for naming languages](https://worldbuildingworkshop.com/constructing-languages/)
+		- Word combinations
+		- History
+			- Especially for near-earth worlds
+			- Censuses are a good resource
+		- Generators
+		- Real words
+			- For extra flavor, say this is an English translation
+- Methodology
+	- Consider the audience
+	- Choose a goal and go for it
+		- RPG campaign, short stories, etc
+	- Keep your eyes open for inspiration
+	- Tropes and genres are tools, not guides
+	- What makes your project good?
+		- Intentionally blunt. Why is your world interesting? Why would I want to explore it?
+	- Develop a world-sense
+		- What fits, and what doesn't?
+	- Make, then remake
+		- Everything is terrible at first
+		- Just don't get stuck
+	- Cut mercilessly
+		- If you really really don't want to cut something, you probably should
+		- Minimalism is your friend
