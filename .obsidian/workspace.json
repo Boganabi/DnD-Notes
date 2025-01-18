@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d74156250aeef8ed",
+            "id": "f4e554226ca490bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds/Unnamed.md",
+                "file": "Worlds/Qhith/Gods and other powers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unnamed"
+              "title": "Gods and other powers"
+            }
+          },
+          {
+            "id": "b65178594d4b6ddc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds/Qhith.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Qhith"
             }
           }
         ]
@@ -173,8 +187,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d74156250aeef8ed",
+  "active": "f4e554226ca490bb",
   "lastOpenFiles": [
+    "Worlds/Qhith.md",
+    "Worlds/Qhith/Gods and other powers.md",
+    "Worlds/Qhith/Culture.md",
+    "Worlds/Qhith/Social standards and structure.md",
+    "Worlds/Qhith/Astrology, stars, and planets.md",
+    "Worlds/Qhith/Plants and animals.md",
+    "Worlds/Qhith",
+    "General Notes/Creating Worlds.md",
+    "NPCS/Villains/Megaira Bronwen.md",
     "PCs/Tynd.md",
     "PCs/Vance.md",
     "PCs/Pointer Exception.md",
@@ -193,14 +216,6 @@
     "One-shots/Heist.md",
     "One-shots/False Hydra.md",
     "One-shots/Dragon One-shot.md",
-    "One-shots/DOOM.md",
-    "One-shots/Beginner-friendly one-shot.md",
-    "One-shots/Bagman.md",
-    "NPCS/Villains/Megaira Bronwen.md",
-    "Nations/Locwyn.md",
-    "General Notes/One-shot tips.md",
-    "General Notes/One-Shot Ideas.md",
-    "General Notes/Creating Worlds.md",
     "PCs/Character Sheets/Vance.pdf",
     "Imgs/Picere.png",
     "PCs/Character Sheets",
@@ -211,7 +226,6 @@
     "Campaigns",
     "Organizations",
     "Cities",
-    "Nations",
-    "NPCS/Villains"
+    "Nations"
   ]
 }
