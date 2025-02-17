@@ -11,17 +11,31 @@
             "id": "d74156250aeef8ed",
             "type": "leaf",
             "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
+          },
+          {
+            "id": "5d037fffa0f6cde8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds/Unnamed.md",
+                "file": "One-shots/Russian Sleep Experiment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unnamed"
+              "title": "Russian Sleep Experiment"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,8 +187,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d74156250aeef8ed",
+  "active": "5d037fffa0f6cde8",
   "lastOpenFiles": [
+    "Worlds/Unnamed.md",
+    "One-shots/Russian Sleep Experiment.md",
     "PCs/Tynd.md",
     "PCs/Vance.md",
     "PCs/Pointer Exception.md",
@@ -199,8 +215,6 @@
     "NPCS/Villains/Megaira Bronwen.md",
     "Nations/Locwyn.md",
     "General Notes/One-shot tips.md",
-    "General Notes/One-Shot Ideas.md",
-    "General Notes/Creating Worlds.md",
     "PCs/Character Sheets/Vance.pdf",
     "Imgs/Picere.png",
     "PCs/Character Sheets",
