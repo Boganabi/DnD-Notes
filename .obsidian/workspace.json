@@ -33,9 +33,22 @@
               "icon": "lucide-file",
               "title": "Russian Sleep Experiment"
             }
+          },
+          {
+            "id": "062a3e1d0d8dfb11",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,10 +200,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d037fffa0f6cde8",
+  "active": "062a3e1d0d8dfb11",
   "lastOpenFiles": [
-    "Worlds/Unnamed.md",
+    "conflict-files-obsidian-git.md",
     "One-shots/Russian Sleep Experiment.md",
+    "Worlds/Qhith/Social standards and structure.md",
+    "Worlds/Qhith/Plants and animals.md",
+    "Worlds/Qhith/Gods and other powers.md",
+    "Worlds/Qhith/Culture.md",
+    "Worlds/Qhith/Astrology, stars, and planets.md",
+    "Worlds/Qhith",
+    "Worlds/Qhith.md",
+    "Worlds/Unnamed.md",
     "PCs/Tynd.md",
     "PCs/Vance.md",
     "PCs/Pointer Exception.md",
@@ -208,13 +229,6 @@
     "One-shots/Pirate.md",
     "One-shots/Heist.md",
     "One-shots/False Hydra.md",
-    "One-shots/Dragon One-shot.md",
-    "One-shots/DOOM.md",
-    "One-shots/Beginner-friendly one-shot.md",
-    "One-shots/Bagman.md",
-    "NPCS/Villains/Megaira Bronwen.md",
-    "Nations/Locwyn.md",
-    "General Notes/One-shot tips.md",
     "PCs/Character Sheets/Vance.pdf",
     "Imgs/Picere.png",
     "PCs/Character Sheets",
@@ -225,7 +239,6 @@
     "Campaigns",
     "Organizations",
     "Cities",
-    "Nations",
-    "NPCS/Villains"
+    "Nations"
   ]
 }

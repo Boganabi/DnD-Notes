@@ -1,4 +1,4 @@
-World name: ??
+World name: Qhith
 - Conflict: At random points in time, a portal to hell opens. The longer it is left open, the deeper the portal reaches in hell (starting at 1st layer, up to the 9th layer). These are opened by Asmodeus himself, for reasons unknown to the material plane. And they are appearing more and more often…
 - Conflict 2: Another corporation is competing with them and doing dangerous things to try and bring competition into the market
 - Villain name: [[Megaira Bronwen]]
@@ -14,31 +14,36 @@ World name: ??
 https://www.reddit.com/r/worldbuilding/wiki/getting_started/
 - That First Spark
 	- Themes of 7
-		- 7 Gods, 7 mainlands, 7 seas, 7 items of power, etc
+		- 7 Gods, 7 mainlands, 7 seas, 7 items of power, 7 deadly sins, 7 virtues, etc
+			- Lust, Gluttony, Greed, Sloth, Envy, Wrath, Pride
+			- Chastity, Temperance, Charity, Diligence, Kindness, Patience, Humility
 	- Things I want in this world
 		- Spirits that appear for certain things, like events or feelings (like spren from Mistborn)
 		- Kingdoms that are rotting from the inside
 		- Life is rotting for some reason
 - Developing your idea
 	- The 5 W's
-		- What's the cosmology?
+		- What's the cosmology? [[Astrology, stars, and planets]]
 			- Constellations
+				- 7 constellations
 			- Planets
-		- What's the Flora and Fauna like?
+				- 7 planets 
+		- What's the Flora and Fauna like? [[Plants and animals]]
 			- Animals and plants
 			- What do they eat?
 			- Medicines?
 			- Ecology
 		- What elements of the supernatural exist?
 			- Is there magic?
+				- Yes, using D&D's system
 			- Can biological/supernatural creatures use magic?
 			- Does magic follow physical laws?
-		- What's social life like?
+		- What's social life like? [[Social standards and structure]]
 			- What social divides are there?
 			- What jobs are there?
 			- Who does these jobs?
 			- What educational/governmental systems are there?
-		- What cultures have formed?
+		- What cultures have formed? [[Culture]]
 			- What do people wear?
 			- What do they eat?
 			- What hobbies do people have?
