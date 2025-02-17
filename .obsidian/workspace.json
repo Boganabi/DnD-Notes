@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d74156250aeef8ed",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
-          },
-          {
             "id": "5d037fffa0f6cde8",
             "type": "leaf",
             "state": {
@@ -33,22 +20,8 @@
               "icon": "lucide-file",
               "title": "Russian Sleep Experiment"
             }
-          },
-          {
-            "id": "062a3e1d0d8dfb11",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,17 +173,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "062a3e1d0d8dfb11",
+  "active": "5d037fffa0f6cde8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "One-shots/Russian Sleep Experiment.md",
+    "Worlds/Qhith.md",
     "Worlds/Qhith/Social standards and structure.md",
     "Worlds/Qhith/Plants and animals.md",
     "Worlds/Qhith/Gods and other powers.md",
     "Worlds/Qhith/Culture.md",
     "Worlds/Qhith/Astrology, stars, and planets.md",
+    "One-shots/Russian Sleep Experiment.md",
+    "conflict-files-obsidian-git.md",
     "Worlds/Qhith",
-    "Worlds/Qhith.md",
     "Worlds/Unnamed.md",
     "PCs/Tynd.md",
     "PCs/Vance.md",
