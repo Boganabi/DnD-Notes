@@ -7,6 +7,8 @@ World name: Qhith
 - Nations
 	- [[Locwyn]]
 		- While not yet affected by the hell portals, a portal to the Feywild is monitored by [[Aperture]] underneath the castle. The portal is only rumored amongst the townsfolk, as [[Aperture]] keeps information confidential
+	- [[Zelos]]
+		- Name comes from an alternate name for the rider of the first horse of the apocalypse. This is where the origins of Armius are.
 - Races
 
 
@@ -19,7 +21,9 @@ https://www.reddit.com/r/worldbuilding/wiki/getting_started/
 			- Chastity, Temperance, Charity, Diligence, Kindness, Patience, Humility
 	- Things I want in this world
 		- Spirits that appear for certain things, like events or feelings (like spren from Mistborn)
+			- These spirits appear when someone feels any of the 7 deadly sins/virtues
 		- Kingdoms that are rotting from the inside
+			- Why are they rotting? Is one of the gods (like Wrath) becoming too powerful? Are the four horseman beginning their influence?
 		- Life is rotting for some reason
 - Developing your idea
 	- The 5 W's
@@ -32,6 +36,7 @@ https://www.reddit.com/r/worldbuilding/wiki/getting_started/
 			- Animals and plants
 			- What do they eat?
 			- Medicines?
+				- Likely developed based on the 7 deadly sins to prevent them
 			- Ecology
 		- What elements of the supernatural exist?
 			- Is there magic?

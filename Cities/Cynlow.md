@@ -1,1 +1,1 @@
-Contains clues that lead to a city called [[UnnamedCity]] that is currently under control of a True Hydra
+Contains clues that lead to a city called [[Duraytre]] that is currently under control of a True Hydra
