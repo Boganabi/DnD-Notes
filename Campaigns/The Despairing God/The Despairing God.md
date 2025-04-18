@@ -1,0 +1,4 @@
+- "When the Creator weeps, everyone feels the rain"
+- "A canvas wiped clean leaves only regret"
+- inspired by https://youtu.be/iQBY5ZQp1EU?si=o1EDksaslHjNly3u
+- I want to build a world where the God/Creator of it has fallen into a deep depression, and the world is feeling the consequences.
