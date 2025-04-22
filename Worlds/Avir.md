@@ -1,4 +1,4 @@
-World name: Qhith
+World name: Avir
 - Conflict: At random points in time, a portal to hell opens. The longer it is left open, the deeper the portal reaches in hell (starting at 1st layer, up to the 9th layer). These are opened by Asmodeus himself, for reasons unknown to the material plane. And they are appearing more and more often…
 - Conflict 2: Another corporation is competing with them and doing dangerous things to try and bring competition into the market
 - Villain name: [[Megaira Bronwen]]
@@ -10,6 +10,9 @@ World name: Qhith
 	- [[Zelos]]
 		- Name comes from an alternate name for the rider of the first horse of the apocalypse. This is where the origins of Armius are.
 - Races
+- Other conflicts
+	- The Despairing God has caused a constant years-long drizzle, which is starting to have environmental consequences
+	- The Gods have started warring with each other
 
 
 ### Filling in blanks from:
