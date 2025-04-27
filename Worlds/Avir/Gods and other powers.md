@@ -5,7 +5,7 @@
 		- When one of the 7 sins becomes too powerful, the horseman can invade
 		- The horseman are inevitable, and are coming no matter how powerful the 7 sins are
 		- Consists of
-			- White horse of Conquest/Pestilence (carrying the Antichrist with a crown holding a bow)
+			- White horse of Conquest/Pestilence (carrying the Antichrist ([[Armilus]]) with a crown holding a bow)
 			- Red horse of war/strife, carrying a sword
 			- Black horse of famine, carrying a food merchant holding scales
 			- Pale horse of death, carrying Hades
@@ -29,7 +29,7 @@ Representatives of the 7 virtues
 The Antichrist/BBEG/Pseudokhristos
 - https://en.wikipedia.org/wiki/Antichrist
 - Technically arrives with the 1st horse of the apocalypse
-- Name is Armilus
+- Name is [[Armilus]]
 
 What are the effects of Kindness falling into despair and Envy gaining more power?
 - Likely due to rise of widespread war and conflict
