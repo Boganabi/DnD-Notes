@@ -8,49 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "253f9e29f5cfc769",
+            "id": "b65178594d4b6ddc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worlds/Avir.md",
+                "file": "Campaigns/The Despairing God/The Despairing God.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Avir"
+              "title": "The Despairing God"
             }
           },
           {
-            "id": "3702377cefb5887c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds/Avir/Gods and other powers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gods and other powers"
-            }
-          },
-          {
-            "id": "574a63ab8b6edf19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds/Avir/Session Notes/Session 0.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 0"
-            }
-          },
-          {
-            "id": "7552d2a871ade6a7",
+            "id": "362ee26878cca86d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,7 +36,21 @@
             }
           },
           {
-            "id": "3fb0462ba3ebfe39",
+            "id": "c1dfebaf98f60968",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds/Avir/Session Notes/Session 0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 0"
+            }
+          },
+          {
+            "id": "d24ccff764cebd22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,21 +64,21 @@
             }
           },
           {
-            "id": "05779871cfad2768",
+            "id": "854bf6a2af9682d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCS/Randomly Generated.md",
+                "file": "Nations/Zelos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Randomly Generated"
+              "title": "Zelos"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -245,45 +231,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7552d2a871ade6a7",
+  "active": "c1dfebaf98f60968",
   "lastOpenFiles": [
-    "Worlds/Avir/Gods and other powers.md",
-    "NPCS/Villains/Armilus.md",
-    "Worlds/Avir/Social standards and structure.md",
-    "Worlds/Avir.md",
     "Campaigns/The Despairing God/The Despairing God.md",
-    "Worlds/Avir/Session Notes/Session 1.md",
-    "Cities/Veylen.md",
-    "NPCS/Randomly Generated.md",
     "Worlds/Avir/Session Notes/Session 0.md",
+    "Cities/Veylen.md",
+    "Worlds/Avir/Session Notes/Session 1.md",
     "Nations/Zelos.md",
-    "Cities/Duraytre.md",
-    "Cities/Cynlow.md",
-    "Worlds/Avir/Session Notes",
-    "Worlds/Avir/Astrology, stars, and planets.md",
-    "Worlds/Avir/Culture.md",
+    "NPCS/Villains/Armilus.md",
+    "NPCS/Nulok.md",
+    "Worlds/Avir/Session Notes.md",
+    "Worlds/Avir/Social standards and structure.md",
     "Worlds/Avir/Plants and animals.md",
-    "Campaigns/Tron Campaign/World Info.md",
-    "General Notes/Building a Campaign.md",
+    "Worlds/Avir/Gods and other powers.md",
+    "Worlds/Avir/Session Notes",
+    "Worlds/Avir/Culture.md",
+    "Worlds/Avir/Astrology, stars, and planets.md",
+    "Worlds/Avir",
+    "Worlds/Avir.md",
+    "NPCS/Randomly Generated.md",
+    "Worlds/Qhith.md",
+    "Worlds/Qhith/Gods and other powers.md",
     "One-shots/False Hydra.md",
     "Campaigns/The Despairing God",
-    "Campaigns/Tron Campaign",
-    "General Notes/Campaign Prep Template.md",
-    "General Notes/Creating Worlds.md",
-    "General Notes/One-Shot Ideas.md",
-    "General Notes/One-shot tips.md",
     "One-shots/Russian Sleep Experiment.md",
-    "Nations/Locwyn.md",
-    "NPCS/Villains/Megaira Bronwen.md",
     "One-shots/Abandoned Spaceship.md",
-    "Worlds/Avir",
+    "Cities/Duraytre.md",
+    "Campaigns/Tron Campaign/World Info.md",
+    "Campaigns/Tron Campaign",
+    "One-shots/Beginner-friendly one-shot.md",
+    "One-shots/Wendigo.md",
+    "Worlds/Qhith/Culture.md",
+    "Worlds/Qhith/Social standards and structure.md",
+    "Worlds/Qhith",
     "PCs/Character Sheets/Vance.pdf",
     "Imgs/Picere.png",
     "PCs/Character Sheets",
     "Imgs",
     "Imgs/Vance.png",
     "Campaigns/Here be Dragons",
-    "PCs",
-    "Campaigns"
+    "PCs"
   ]
 }

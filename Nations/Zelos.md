@@ -1,0 +1,1 @@
+The main country in [[Avir]] where [[Armilus]] resides, and runs his war from. Also where the plague originates from, because of his magi-tech
